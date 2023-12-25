@@ -1,0 +1,5 @@
+{
+      "dns_ip": "52.35.28.64",
+      "api_key": "3f007c2084452fcb958956b17844a987",
+      "algorithm": ["round", "geo", "load"]
+}

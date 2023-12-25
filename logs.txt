@@ -1,0 +1,209 @@
+2023-11-28 04:04:16 - INFO: Minimum Load Ip : 18.212.80.248
+2023-11-28 04:04:16 - INFO: Algorithm Used  : load
+2023-11-28 04:04:16 - INFO: Ip List Used :18.212.80.248, 3.147.2.205, 54.219.136.198 
+2023-11-28 04:04:16 - INFO: server started
+2023-11-28 04:04:16 - INFO: name server started
+
+2023-11-28 04:28:28 - INFO: Minimum Load Ip : 18.212.80.248
+2023-11-28 04:28:28 - INFO: Algorithm Used  : load
+2023-11-28 04:28:28 - INFO: Ip List Used :18.212.80.248, 3.147.2.205, 54.219.136.198 
+2023-11-28 04:28:28 - INFO: server started
+2023-11-28 04:28:28 - INFO: name server started
+2023-11-28 04:28:31 - INFO: Shutting Down Server...
+
+2023-11-28 05:02:00 - INFO: Minimum Load Ip : 54.80.55.63
+2023-11-28 05:02:00 - INFO: Algorithm Used  : load
+2023-11-28 05:02:00 - INFO: Ip List Used :54.80.55.63, 3.147.2.205, 54.219.136.198 
+2023-11-28 05:02:00 - INFO: server started
+2023-11-28 05:02:00 - INFO: name server started
+2023-11-28 05:02:03 - INFO: Shutting Down Server...
+
+2023-11-28 05:30:29 - INFO: Minimum Load Ip : 54.80.55.63
+2023-11-28 05:30:29 - INFO: Algorithm Used  : load
+2023-11-28 05:30:29 - INFO: Ip List Used :54.80.55.63, 3.147.2.205, 54.219.136.198 
+2023-11-28 05:30:29 - INFO: server started
+2023-11-28 05:30:29 - INFO: Login time: 2023-11-28 05:30:29.299843
+2023-11-28 05:30:29 - INFO: name server started
+2023-11-28 05:30:31 - INFO: Logout time: 2023-11-28 05:30:31.249133
+2023-11-28 05:30:31 - INFO: Shutting Down Server...
+
+2023-11-28 05:45:43 - INFO: Minimum Distance Ip : 54.219.136.198
+2023-11-28 05:45:43 - INFO: Algorithm Used  : geo
+2023-11-28 05:45:43 - INFO: Ip List Used :54.80.55.63, 3.147.2.205, 54.219.136.198 
+2023-11-28 05:45:43 - INFO: server started
+2023-11-28 05:45:43 - INFO: Login time: 2023-11-28 05:45:43.878094
+2023-11-28 05:45:43 - INFO: name server started
+2023-11-28 05:45:46 - INFO: Logout time: 2023-11-28 05:45:46.207602
+2023-11-28 05:45:46 - INFO: Shutting Down Server...
+
+2023-11-28 05:49:55 - INFO: Domain Name : dnsserver-saidivyasreesheem.online
+2023-11-28 05:49:55 - INFO: Algorithm Used  : ROUND ROBIN
+2023-11-28 05:49:55 - INFO: Ip List Used :3.147.2.205, 54.219.136.198, 54.80.55.63 
+2023-11-28 05:49:55 - INFO: server started
+2023-11-28 05:49:55 - INFO: Login time: 2023-11-28 05:49:55.618802
+2023-11-28 05:49:55 - INFO: name server started
+2023-11-28 05:49:57 - INFO: Logout time: 2023-11-28 05:49:57.514577
+2023-11-28 05:49:57 - INFO: Shutting Down Server...
+
+2023-11-28 05:50:36 - INFO: Domain Name : dnsserver-saidivyasreesheem.online
+2023-11-28 05:50:36 - INFO: Minimum Load Ip : 54.80.55.63
+2023-11-28 05:50:36 - INFO: Algorithm Used  : LOAD-BASED
+2023-11-28 05:50:36 - INFO: Ip List Used :54.80.55.63, 3.147.2.205, 54.219.136.198 
+2023-11-28 05:50:36 - INFO: server started
+2023-11-28 05:50:36 - INFO: Login time: 2023-11-28 05:50:36.825167
+2023-11-28 05:50:36 - INFO: name server started
+2023-11-28 05:50:37 - INFO: Logout time: 2023-11-28 05:50:37.994920
+2023-11-28 05:50:37 - INFO: Shutting Down Server...
+
+2023-11-28 05:53:38 - INFO: Domain Name : dnsserver-saidivyasreesheem.online
+2023-11-28 05:53:38 - INFO: Algorithm Used  : ROUND ROBIN
+2023-11-28 05:53:38 - INFO: Ip List Used :3.147.2.205, 54.219.136.198, 54.80.55.63 
+2023-11-28 05:53:38 - INFO: server started
+2023-11-28 05:53:38 - INFO: Login time: 2023-11-28 05:53:38.150481
+2023-11-28 05:53:38 - INFO: name server started
+2023-11-28 05:53:39 - INFO: Logout time: 2023-11-28 05:53:39.049355
+2023-11-28 05:53:39 - INFO: Shutting Down Server...
+2023-11-28 05:53:39 - INFO: 
+
+2023-11-28 05:53:47 - INFO: Domain Name : dnsserver-saidivyasreesheem.online
+2023-11-28 05:53:47 - INFO: Latitude : 39.043701171875
+2023-11-28 05:53:47 - INFO: Longitude: -77.47419738769531
+2023-11-28 05:53:47 - INFO: Latitude : 45.83599853515625
+2023-11-28 05:53:47 - INFO: Longitude: -119.6989974975586
+2023-11-28 05:53:47 - INFO: Latitude : 39.99557876586914
+2023-11-28 05:53:47 - INFO: Longitude: -82.99945831298828
+2023-11-28 05:53:47 - INFO: Latitude : 45.83599853515625
+2023-11-28 05:53:47 - INFO: Longitude: -119.6989974975586
+2023-11-28 05:53:48 - INFO: Latitude : 37.330528259277344
+2023-11-28 05:53:48 - INFO: Longitude: -121.83822631835938
+2023-11-28 05:53:48 - INFO: Latitude : 45.83599853515625
+2023-11-28 05:53:48 - INFO: Longitude: -119.6989974975586
+2023-11-28 05:53:48 - INFO: Minimum Distance Ip : 54.219.136.198
+2023-11-28 05:53:48 - INFO: Algorithm Used  : GEO APPROXIMATION
+2023-11-28 05:53:48 - INFO: Ip List Used :54.80.55.63, 3.147.2.205, 54.219.136.198 
+2023-11-28 05:53:48 - INFO: server started
+2023-11-28 05:53:48 - INFO: Login time: 2023-11-28 05:53:48.313774
+2023-11-28 05:53:48 - INFO: name server started
+2023-11-28 05:53:49 - INFO: Logout time: 2023-11-28 05:53:49.911517
+2023-11-28 05:53:49 - INFO: Shutting Down Server...
+2023-11-28 05:53:50 - INFO: 
+
+2023-11-28 05:54:34 - INFO: Domain Name : dnsserver-saidivyasreesheem.online
+2023-11-28 05:54:34 - INFO: Minimum Load Ip : 54.80.55.63
+2023-11-28 05:54:34 - INFO: Algorithm Used  : LOAD-BASED
+2023-11-28 05:54:34 - INFO: Ip List Used :54.80.55.63, 3.147.2.205, 54.219.136.198 
+2023-11-28 05:54:34 - INFO: server started
+2023-11-28 05:54:34 - INFO: Login time: 2023-11-28 05:54:34.778403
+2023-11-28 05:54:34 - INFO: name server started
+2023-11-28 05:54:35 - INFO: Logout time: 2023-11-28 05:54:35.998266
+2023-11-28 05:54:35 - INFO: Shutting Down Server...
+2023-11-28 05:54:36 - INFO: 
+
+2023-11-28 05:54:45 - INFO: Domain Name : dnsserver-saidivyasreesheem.online
+2023-11-28 05:54:45 - INFO: Minimum Load Ip : 54.80.55.63
+2023-11-28 05:54:45 - INFO: Algorithm Used  : LOAD-BASED
+2023-11-28 05:54:45 - INFO: Ip List Used :54.80.55.63, 3.147.2.205, 54.219.136.198 
+2023-11-28 05:54:45 - INFO: server started
+2023-11-28 05:54:45 - INFO: Login time: 2023-11-28 05:54:45.585976
+2023-11-28 05:54:45 - INFO: name server started
+2023-11-28 05:54:48 - INFO: Logout time: 2023-11-28 05:54:48.025103
+2023-11-28 05:54:48 - INFO: Shutting Down Server...
+2023-11-28 05:54:48 - INFO: 
+
+2023-11-28 05:55:05 - INFO: Domain Name : dnsserver-saidivyasreesheem.online
+2023-11-28 05:55:05 - INFO: Algorithm Used  : ROUND ROBIN
+2023-11-28 05:55:05 - INFO: Ip List Used :3.147.2.205, 54.219.136.198, 54.80.55.63 
+2023-11-28 05:55:05 - INFO: server started
+2023-11-28 05:55:05 - INFO: Login time: 2023-11-28 05:55:05.462045
+2023-11-28 05:55:05 - INFO: name server started
+2023-11-28 05:55:08 - INFO: Logout time: 2023-11-28 05:55:08.035975
+2023-11-28 05:55:08 - INFO: Shutting Down Server...
+2023-11-28 05:55:08 - INFO: 
+
+2023-11-28 05:55:14 - INFO: Domain Name : dnsserver-saidivyasreesheem.online
+2023-11-28 05:55:14 - INFO: Minimum Load Ip : 54.80.55.63
+2023-11-28 05:55:14 - INFO: Algorithm Used  : LOAD-BASED
+2023-11-28 05:55:14 - INFO: Ip List Used :54.80.55.63, 3.147.2.205, 54.219.136.198 
+2023-11-28 05:55:14 - INFO: server started
+2023-11-28 05:55:14 - INFO: Login time: 2023-11-28 05:55:14.296048
+2023-11-28 05:55:14 - INFO: name server started
+2023-11-28 05:55:17 - INFO: Logout time: 2023-11-28 05:55:17.833991
+2023-11-28 05:55:17 - INFO: Shutting Down Server...
+2023-11-28 05:55:18 - INFO: 
+
+2023-11-28 05:55:21 - INFO: Domain Name : dnsserver-saidivyasreesheem.online
+2023-11-28 05:55:21 - INFO: Minimum Load Ip : 54.80.55.63
+2023-11-28 05:55:21 - INFO: Algorithm Used  : LOAD-BASED
+2023-11-28 05:55:21 - INFO: Ip List Used :54.80.55.63, 3.147.2.205, 54.219.136.198 
+2023-11-28 05:55:21 - INFO: server started
+2023-11-28 05:55:21 - INFO: Login time: 2023-11-28 05:55:21.735393
+2023-11-28 05:55:21 - INFO: name server started
+2023-11-28 05:55:23 - INFO: Logout time: 2023-11-28 05:55:23.235703
+2023-11-28 05:55:23 - INFO: Shutting Down Server...
+2023-11-28 05:55:23 - INFO: 
+
+2023-11-28 05:55:26 - INFO: Domain Name : dnsserver-saidivyasreesheem.online
+2023-11-28 05:55:26 - INFO: Algorithm Used  : ROUND ROBIN
+2023-11-28 05:55:26 - INFO: Ip List Used :3.147.2.205, 54.219.136.198, 54.80.55.63 
+2023-11-28 05:55:26 - INFO: server started
+2023-11-28 05:55:26 - INFO: Login time: 2023-11-28 05:55:26.919636
+2023-11-28 05:55:26 - INFO: name server started
+2023-11-28 05:55:32 - INFO: Logout time: 2023-11-28 05:55:32.897690
+2023-11-28 05:55:32 - INFO: Shutting Down Server...
+2023-11-28 05:55:32 - INFO: 
+
+2023-11-28 05:55:36 - INFO: Domain Name : dnsserver-saidivyasreesheem.online
+2023-11-28 05:55:36 - INFO: Minimum Load Ip : 54.80.55.63
+2023-11-28 05:55:36 - INFO: Algorithm Used  : LOAD-BASED
+2023-11-28 05:55:36 - INFO: Ip List Used :54.80.55.63, 3.147.2.205, 54.219.136.198 
+2023-11-28 05:55:36 - INFO: server started
+2023-11-28 05:55:36 - INFO: Login time: 2023-11-28 05:55:36.409632
+2023-11-28 05:55:36 - INFO: name server started
+2023-11-28 05:55:37 - INFO: Logout time: 2023-11-28 05:55:37.705680
+2023-11-28 05:55:37 - INFO: Shutting Down Server...
+2023-11-28 05:55:37 - INFO: 
+
+2023-11-28 05:55:41 - INFO: Domain Name : dnsserver-saidivyasreesheem.online
+2023-11-28 05:55:41 - INFO: Algorithm Used  : ROUND ROBIN
+2023-11-28 05:55:41 - INFO: Ip List Used :3.147.2.205, 54.219.136.198, 54.80.55.63 
+2023-11-28 05:55:41 - INFO: server started
+2023-11-28 05:55:41 - INFO: Login time: 2023-11-28 05:55:41.273161
+2023-11-28 05:55:41 - INFO: name server started
+2023-11-28 05:55:42 - INFO: Logout time: 2023-11-28 05:55:42.252051
+2023-11-28 05:55:42 - INFO: Shutting Down Server...
+2023-11-28 05:55:42 - INFO: 
+
+2023-11-28 05:55:45 - INFO: Domain Name : dnsserver-saidivyasreesheem.online
+2023-11-28 05:55:45 - INFO: Minimum Load Ip : 54.80.55.63
+2023-11-28 05:55:45 - INFO: Algorithm Used  : LOAD-BASED
+2023-11-28 05:55:45 - INFO: Ip List Used :54.80.55.63, 3.147.2.205, 54.219.136.198 
+2023-11-28 05:55:45 - INFO: server started
+2023-11-28 05:55:45 - INFO: Login time: 2023-11-28 05:55:45.918055
+2023-11-28 05:55:45 - INFO: name server started
+2023-11-28 05:55:46 - INFO: Logout time: 2023-11-28 05:55:46.434252
+2023-11-28 05:55:46 - INFO: Shutting Down Server...
+2023-11-28 05:55:46 - INFO: 
+
+2023-11-28 05:55:51 - INFO: Domain Name : dnsserver-saidivyasreesheem.online
+2023-11-28 05:55:51 - INFO: Latitude : 39.043701171875
+2023-11-28 05:55:51 - INFO: Longitude: -77.47419738769531
+2023-11-28 05:55:51 - INFO: Latitude : 45.83599853515625
+2023-11-28 05:55:51 - INFO: Longitude: -119.6989974975586
+2023-11-28 05:55:51 - INFO: Latitude : 39.99557876586914
+2023-11-28 05:55:51 - INFO: Longitude: -82.99945831298828
+2023-11-28 05:55:52 - INFO: Latitude : 45.83599853515625
+2023-11-28 05:55:52 - INFO: Longitude: -119.6989974975586
+2023-11-28 05:55:52 - INFO: Latitude : 37.330528259277344
+2023-11-28 05:55:52 - INFO: Longitude: -121.83822631835938
+2023-11-28 05:55:52 - INFO: Latitude : 45.83599853515625
+2023-11-28 05:55:52 - INFO: Longitude: -119.6989974975586
+2023-11-28 05:55:52 - INFO: Minimum Distance Ip : 54.219.136.198
+2023-11-28 05:55:52 - INFO: Algorithm Used  : GEO APPROXIMATION
+2023-11-28 05:55:52 - INFO: Ip List Used :54.80.55.63, 3.147.2.205, 54.219.136.198 
+2023-11-28 05:55:52 - INFO: server started
+2023-11-28 05:55:52 - INFO: Login time: 2023-11-28 05:55:52.395440
+2023-11-28 05:55:52 - INFO: name server started
+2023-11-28 05:55:52 - INFO: Logout time: 2023-11-28 05:55:52.535159
+2023-11-28 05:55:52 - INFO: Shutting Down Server...
+2023-11-28 05:55:52 - INFO: 
+
